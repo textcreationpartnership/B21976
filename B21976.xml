@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament with instrvctions for the lords lieutenants, committees of Parliament and other officers and commanders in the counties of Warwick and Stafford, and cities and counties of Coventry and</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21976</idno><idno type="EEBO-CITATION">12119411</idno>
+  <idno type="VID">196959</idno>
+  <idno type="EEBO-PROQUEST">2240924729</idno>
+  
+            <idno type="STC">Wing E1482</idno>
+            <idno type="OCLC">12119411</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196959)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E84, no 11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament with instrvctions for the lords lieutenants, committees of Parliament and other officers and commanders in the counties of Warwick and Stafford, and cities and counties of Coventry and</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196959:1"/>
+            <p> A DECLARATION OF THE Lords and Commons Assembled in Parliament, WITH INSTRVCTIONS for the Lords Lieutenants, Com<g ref="char:EOLhyphen"/>mittees of Parliament, and other Officers and Commanders in the Counties of <hi>Warwick</hi> and <hi>Stafford,</hi> and Cities and Counties of <hi>Coventry</hi> and <hi>Lichfield;</hi> Touching the association of the said Counties and parts adjacent, for the defence of themselves and suppressing and disarming of Enemies, and persons ill-affected. And for raysing of Plate, and Monies for that end and purpose.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered to be Printed,</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <hi>Io. Brown</hi> Cler. Parliamentorum.</signed>
+                           <signed>
+                              <hi>Henry Els.</hi> Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Overton,</hi> in <hi>Popes-Head-Alley,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="2" facs="tcp:196959:2"/>
+            <head>A Declaration of the Lords and Commons assembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons now in Parliament assembled, being certainely informed that Papists and other wicked, and ill affected persons, have traiterously combined toge<g ref="char:EOLhyphen"/>ther, and entred into association, and have raised, and daily do raise great forces both of horse and foote, in se<g ref="char:EOLhyphen"/>verall Counties of this Kingdome, and have plundered, spoyled, and destroyed, multitudes of his Majesties good Subjects, and if not timely prevented, will utterly subvert, and destroy the true pro<g ref="char:EOLhyphen"/>testant religion (which is their chiefe designe) the lawes of the Land, the priviledges of Parliament, and the liberty of the Subjects. The said Lords and Commons doe declare, that they hold it a thing most fit and necessary for the present state of this Kingdome. And for the better securing of the County of Warwicke, and City and County of Couentry, and of the County of Stafford, and City and County of Lichfield, and the parties adjacent to the said Counties, and doe accordingly, Order and Ordaine; That the Lords Livetenants and the Committees of parliament hereafter named (that is to say) for the County of Warwicke, and City and County of Coventry, Sir <hi>Peter Wentworth</hi> Knight of the Bath, <hi>William Parefoy</hi> Esquire, <hi>Godfrey Bosevile</hi> Esquire, <hi>Iohn Barker</hi> Esquire, <hi>William Iesson</hi> Esquire, the present Major of the City of Coventry, <hi>Iohn Hales</hi> Esquire, <hi>Anthony Stoughton</hi> Esquire, <hi>Thomas Boughton</hi> Esquire, <hi>William Colmore</hi> Esquire, <hi>George Abbot</hi> Esquire, And <hi>Thomas Basnet</hi> Alderman, and for the Countie of Staf<g ref="char:EOLhyphen"/>ford, and City and County of Lichfeild, Sir <hi>Hugh Wrotesley</hi> Knight and Baronet, Sir <hi>Charles Egerton</hi> Knight, <hi>T. Crompton</hi> Esquire, <hi>Ed<g ref="char:EOLhyphen"/>ward Manwaring</hi> Esquire, <hi>Thomas Parkes</hi> Esquire, <hi>Iohn Skrinsley</hi> Esquire, <hi>Gerard Skrinsley</hi> Esquire, <hi>Edward Leigh</hi> Esquire, <hi>Richard Broughton</hi> Esquire, <hi>Mathew Moreton</hi> Esquire, <hi>Richard Payot</hi> Esquire, <hi>George Parker</hi> Esquire, <hi>Hum<g ref="char:EOLhyphen"/>phrey Wicley Rowland-Cotton</hi> Esquire, <hi>Walter Grosvenor</hi> Esquire, <hi>Richard Flier</hi> Esquire, <hi>Francis Collier</hi> Esquire, <hi>Richard Bowyer</hi> Esquire, <hi>Ralph Rudier</hi> Es<g ref="char:EOLhyphen"/>quire, The Maior of Stafford for the time being, <hi>Edward Broughton</hi> Gentleman, <hi>Iohn Birch</hi> Gentleman, <hi>Phillip Iackson</hi> Gentleman, <hi>Henry Stone</hi> Gentleman, <hi>Iohn Swinfield</hi> Gentleman, The Baliffes and Sherif of the City of Lichfield for the time being, <hi>Iohn Bourne</hi> Gentleman, <hi>Richard Baxter</hi> Gentleman, And all Colonells, Lieuetenant Colonells, Serieant Majors, and other Captaines and Officers, and all other wel affected persons inhabiting within the said severall Counties, and Ci<g ref="char:EOLhyphen"/>ties and parts adjacent shall and may associate themselves and mu<g ref="char:EOLhyphen"/>tually aid, and succour, and assist one another, in the mutuall preserva<g ref="char:EOLhyphen"/>tion▪ and defence of themselves, and the peace of the said Cities and
+<pb n="3" facs="tcp:196959:2"/> Counties from all rapine plundering and spoilings of the said papists, and ill affected persons. And it is further ordered, ordained, and de<g ref="char:EOLhyphen"/>clared that the said Lord Lieuetenants, Committees of Parliament, Colonells, Lieuetenant Colonells, Serjeant Majors, Captaines and other officers, have power and authority, to raise forces of horse and foote, and to lead them into any place which shall be fitting and con<g ref="char:EOLhyphen"/>venient, and to give battel, and to fight with all such as are, or shall be raised to levy warre against the Parliament, and all other forces raised without Authoritie and consent of both Houses of Parliament, that make any insurrection, and plunder, or destroy his Majesties good Subjects, And them to invade, resist, suppresse, subdue, and pur<g ref="char:EOLhyphen"/>sue, kill, and slay, and put to execution of death, and by all meanes to destroy as enemies to the Kingdome, and to performe all things else needfull for the preservation of the safety, and peace of the said Cities and Counties and parts adjacent, observing from time to time such o<g ref="char:EOLhyphen"/>ther directions, and commands, as they shall receive from both Hou<g ref="char:EOLhyphen"/>ses of Parliament, or from the Earle of Essex Lord Generall, and that the said persons, and other the inhabitants for so doing shall be saved and kept harmelesse by the power and authority of Parliament. And the said Lords and Commons takeing into their serious consideration the necessity of appointing a Commander in chiefe, over the forces which are, or shall be raised in the Cities and Counties aforesaid, or any of them for the service aforesaid, in regard that by particular Commissions already granted to persons in the said severall Counties, there was no power given to lead forces out of their owne Counties, It is ordered &amp; ordeined that the Lord Generall, the E. of Essex shall be desired to grant a Commission to <hi>Robert</hi> Lord <hi>Brooke</hi> to command in chiefe as Generall of all the forces, raised or to be raised in the said Cities, and Counties, and parts adjacent, and to have power to lead, command, and carry the same to such places within the said Cities and Counties and parts adjacent, as he shall thinke fit for the defence thereof, And likewise power to give the same order and instructions in his said Excellencies absence, for regulating the souldiers, which are or shall be under his command, as his said Excellency hath given to his Army, and to use martiall law, to compell obedience thereunto, as occasion shall require. And also power and authority to make and appoint all officers, for levying, conducting, and leading the said forces as he shall thinke fit.</p>
+            <closer>
+               <signed>
+                  <hi>Iohn Browne</hi> Cler. Parliament</signed>
+            </closer>
+         </div>
+         <div type="instructions">
+            <pb n="4" facs="tcp:196959:3"/>
+            <head>
+               <hi>Instructions for the Lords Lieuten<g ref="char:EOLhyphen"/>nants, Committees of Parliament, and other Officers and Commanders, in the Counties of <hi>Warwick</hi> and <hi>Stafford,</hi> and Cities and Counties of <hi>Coventry</hi> and <hi>Lichfield.</hi>
+               </hi>
+            </head>
+            <p>THat the Lords Lieutenants of the severall Coun<g ref="char:EOLhyphen"/>tries of <hi>Warwick</hi> and <hi>Stafford,</hi> and Cities and Counties of <hi>Coventry</hi> and <hi>Lichfield,</hi> or the Com<g ref="char:EOLhyphen"/>mittees of Parliament of the said Cities and Counties respectively, or any three or more of them, with all convenient spéed doe summon the severall Gentlemen fréeholders, and other inhabitants of the said severall Cities and Counties, as well within liberties and Corpor<g ref="char:EOLhyphen"/>ations as without, that doe or are able to beare or finder Armes, to such places in the said severall Counties and Cities as they hold most fitting, and at such meetings, to take a view what Armes and Force can be raised in the said Cities and Counties respectively, and examine the defects of Armes and Ammuni<g ref="char:EOLhyphen"/>tion, and to consult of some fitting course how to have the want of Armes and other defects to be supplyed; And at such méetings or at any other fit time and times, with the assistance of the Committee for the propositions, and subscriptions in the severall Counties and Cities aforesaid, and parts adjacent, or any two of them, shall and may propound to all the Inhabitants of the said Cities and Counties that are able to beare or finde Armes, or to contribute towards the same, what present and eminent danger and necessity the whole Kingdom is now reduced unto, by the wick<g ref="char:EOLhyphen"/>ed advice, and attempts and conspiracies of Papists and other per<g ref="char:EOLhyphen"/>sons now about His Majesty, and to propound to them to joyne in Association and mutuall defence of one another, according to the forme of an Association hereunto anuered. And to require them to set downe in writting, and subscribe what Armes for Horse and Foot, what Horse either for Dragoones or others they will have in readinesse upon every just occasion for the defence of the said Cities and Counties.</p>
+            <p>Secondly, the better to prevent the plundering and spoyling of the said Cities and Counties, and the parts adjacent, and to have meanes for the furnishing of Armes and Ammuniton, making of
+<pb n="5" facs="tcp:196959:3"/> fortifications and payment of the Garrisons, Officers, and Soul<g ref="char:EOLhyphen"/>diers, and other publique necessary charges, That thereby forth<g ref="char:EOLhyphen"/>with raised in the said severall Cities and Counties respectively, and in the Corporations, Constablaries and Parishes thereof, such sums of money as shall necessarily be disbursed and expended for the uses aforesaid; The same sums to be rated and assessed in like sort as was the fourehundred thousand pounds granted by Act this present Parliament, wherein the persons who have not subscrib<g ref="char:EOLhyphen"/>ed to the Parliaments late propositions, shall be assessed, and their assessements levied in such sort as by the Ordinance late made for the City of <hi>London,</hi> and the parts adjacent, suchlike persons are to be assessed and their assessements levyed: for which sums of money so rated and levyed and expended as aforesaid, the Lord Lieutenant and Committée, shall be accomptable for their pro<g ref="char:EOLhyphen"/>ceeding therein to both Houses of Parliament, and none else.</p>
+            <p>And for the better levying of the said sums of money, that the said Lords Lieutenants, and the said Committée of the said Coun<g ref="char:EOLhyphen"/>ties respectively; or any thrée or more of them, shall or may assesse, and far or cause to be assessed or taxed, the said sums, upon the said severall Cities and Counties, and the Corporations, Townes, Constablaries and Parishes within the same, in like manner as is aforesaid; And that they or any thrée or more of them, nominate and appoint Treasurers, Collectors and assessors, in every of the said Counties, for the assessing, receiving and collecting the said sums of money, And shall and may grant warrants under their hands and seales in writing, to any Constable, or other Officer whatsoever, to raise, and levy the said sums so to be assessed and taxed as aforesaid, upon all such persons upon whom any such sums shall be so assessed and set, that doe refuse or neglect to pay the same, it shall and may be lawfull to and for the said Assessors, or any o<g ref="char:EOLhyphen"/>ther persons to whom warrants by the Lords Lieutenants, and Committées respectively shall be granted to levy the said sums so assessed by way of distresse, and rate of the goods, of the person so assessed and refusing. And if any person so distrained shall make resistance, it shall and may be lawfull to and for the respective Lords Lieutenants, and Committees to send any of the Trained<g ref="char:EOLhyphen"/>bands or other Souldiers of the respective Counties, and Cities aforesaid to compell the said parties so refusing to obedience of this Ordinance. And in case no distresse is, or may be found, then the said respective Lords Lieutenants, and Committees aforesaid, or any three or more of them, shall or may commit such person, and persons so refusing to pay, as aforesaid, to some commom Gaole, thereto remaine without bayle or main prize, untill payment made of such sum and loanes as aforesaid.</p>
+            <pb n="6" facs="tcp:196959:4"/>
+            <p> Thirdly, that all Sheriffes, Iustices of peace, Majors, Balifs, Constables, and all other His Majesties Officers, as well within liberties as without, be, from time to time aiding and assisting unto the said Lord Lieutenants, and Committées in execution of the power to them given by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, and of these instructions.</p>
+            <p>Fourthly, that no Treasurer or Receiver of any money, shall issue out any money, but under the hands of the Lord Lieftenants and Committées or any three of them in every County respective<g ref="char:EOLhyphen"/>ly. And that the severall Lord Lieutenants, and Committées, doe not signe or grant any warrants for the issuing or paying any sum or sums, but for the furnishing of Armes and Ammunition making of fortifications, payment of Officers, and Souldiers, and other necessary publique charges, tending to the safety and preser<g ref="char:EOLhyphen"/>vation of the said Cities, and Counties and not otherwiise.</p>
+            <p>Fifthly, that the said Lord Lieutenants, and Committées of e<g ref="char:EOLhyphen"/>very the said Cities and Counties respectively, or any thrée or more of them, shall and may from time to time raise such, and so many of the Trained-bands, and other persons inhabiting in the said Cities, and Counties as they shall Iudge it necessary and fitting to enter into the houses of all Papists, and other persons that are voted to be Delinquents by both, or either House of Parliament, or that have put in execution the Commission of <hi>Array</hi> or that have beene present with or aiding or assisting to His Majesty in this unnaturall war against the Parliament, or that being of ability have not contributed upon the propositions of raising of Horse, Money, or Plate for the defence of King and Parliament, or that have refused to send Horse, and Armes, to the Musters, when by the deputy Lieutenants appointed by the power of Parliament, they having béene required so to doe. Or such Clergy-men and o<g ref="char:EOLhyphen"/>thers that have publiquely preached or declared themselves to op<g ref="char:EOLhyphen"/>pose, disgrace, or revile the procéedings of both or either House of Parliament; And to seise upon the Armes, Amunition and Hor<g ref="char:EOLhyphen"/>ses fit for service in the war, that belong to such person, and persons, the same Horses, Armes, and Amunition to be imployed and dis<g ref="char:EOLhyphen"/>posed of by the direction of the said Lord Lieutenants, and Com<g ref="char:EOLhyphen"/>mittees of the said severall and respective Cities and Counties, or any thrée, or more of them for the publique service, and defence of the severall Cities and Counties aforesaid.</p>
+            <p>Sixthly, that the said Lord Lieutenants, and Committées or a<g ref="char:EOLhyphen"/>ny thrée or more of them doe cause the severall companies of the trained-bands and volunteers to be put into Regiments, and to no<g ref="char:EOLhyphen"/>minate, appoint, and place Colonells, Lieutenant Colonells, Ser<g ref="char:EOLhyphen"/>jeant Majors, Captains, Lieutenants, and other officers to every
+<pb n="7" facs="tcp:196959:4"/> Regiment and company where any such are wanting, or when such as are and have béene nominated, have refused to execute those places.</p>
+            <p>Seventhly, that the Dragooners be put into Companies, and that one hundred and twelve be allotted to a Company, and that each Company of Dragooners have an experienced Souldier to be a Corporall, and to have the present pay of a Corporall.</p>
+            <p>Eightly, that the said Lord Lieutenants, and Committées in each County respectively or any thrée or more of them, shall and may give command and directions from time to time to securs and cer<g ref="char:EOLhyphen"/>tifie al Bridges, Cawses, and Passages, and in times of approach of an Enemy or feare of any invasion by an Enemy, to pull down or stop the Bridges, Cawses, Passages and to cut the bankes of the said Counties respectively. And to have power to fortify and secure any Town, Hundred, or Hamlet, where the said Town, Hundred, or Hamlet, are willing to doe the same at their own proper charges. And also to have power at all times to seize and stop all Barges, Boats or other Vessells passing by water for the safety of the said Cities and Counties, and placos adjacent.</p>
+            <p>Ninthly, it is further ordered and declared that the said Com<g ref="char:EOLhyphen"/>mittées, for the said severall Cities, and Counties respectively, shall or may call unto their assistance such person, and persons, as they shall thinke for the better and more orderly execution and perform<g ref="char:EOLhyphen"/>ance of these instructions.</p>
+            <p>Tenthly, the Lord Lieutenant, or Committées or any thrée or more of them shall or may imprison, and commit to safe custody all &amp; every such persons as being able and have had due summons, doe notwithstanding refuse or wilfully neglect to appeare at Muster, or to send some able persons to be allowed of by the Captaines, or chiefs Officers of the Company in his behalfe.</p>
+            <p>And it is lastly ordered and declared, that the instructions of the fiftéenth day of <hi>August</hi> last past for <hi>Iohn Hales, Isaack Bromwich Esqiure, Iohn Barker Alderman, Thomas Basnet Alderman, and Robert Phipps</hi> Gentleman, appointed to take care of the peace of the City of <hi>Coventry</hi> shall be henceforth void, and of no effect,</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Iohn Browne <hi>Cler. Parliament.</hi>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Henry Elsynge <hi>Cler. Par. D. Com.</hi>
+                        </hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="pledge">
+            <pb n="8" facs="tcp:196959:5"/>
+            <p> WE whose names are under written, Inhabitants of the Counties of Warwick, and Stafford, and of the Cities and Counties of Coventry and Lichfield, and parts adjacent, doe hereby in<g ref="char:EOLhyphen"/>gage our selves to provide Horses and Armes, and to maintaine and finde at our owne proper cost and charges, and at all times to have in readinesse for the service of the said Cities and Counties, and parts adjacent now associated together, by authority of both Houses of Par<g ref="char:EOLhyphen"/>liament, so many men compleatly armed, and furnished, and such Horses, Geldings, Naggs, Mares, as we have severally and respectively subscribed for, to bee commanded, led and conducted, in any parts and places within the said Cities, Counties or parts adjacent, by such persons as now have, or hereafter shall have the command in chiefe of all the said Forces of the said Cities, Counties, and parts adjacent.</p>
+            <p>Whereas the Lords and Commons assembled in Parliament, have taken into their consideration, that in times so full of division and dan<g ref="char:EOLhyphen"/>ger as these are, in union of our hearts and forces, it is most conducing to the publique good and safety of the whole Kingdome, and have therefore ordained, That the Inhabitants of the County of Warwick and Stafford, and of the Cities and Counties of Coventry and Lich<g ref="char:EOLhyphen"/>field should enter into association with one another, for the mainte<g ref="char:EOLhyphen"/>nance and preservation of the same Cities and Counties. Therefore in pursuance of the said order, and the better to confirme a mutuall confidence in one another, we whose names are hereunto subscribed, doe hereby promise testifie and declare to maintaine, and defend with our lives power and estates, the peace of the said Cities and Coun<g ref="char:EOLhyphen"/>ties, and parts adjacent, and to aid and assist one another under the command and conduct of such persons as now have, or hereafter shall have by the authority of both Houses of Parliament, or of the Lord Generall, the command in chiefe of all the Forces of the said Cities and Counties, accord<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to the true intent and meaning of the said order of Association, whereunto we must most willingly give our as<g ref="char:EOLhyphen"/>sent, and neither for hop, feare, or other respects, shall ever relinquish this promise.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Jo. Browne</hi> Cler. Parliament.</item>
+                     <item>
+                        <hi>H. Els.</hi> Cler. Parl. D. Com. Ordered to be Printed.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
